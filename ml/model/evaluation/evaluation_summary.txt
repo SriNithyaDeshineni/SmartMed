@@ -1,0 +1,11 @@
+SMARTMED ML MODEL EVALUATION
+============================================================
+
+Training samples: 16,220
+Testing samples: 4,056
+Drug classes: 235
+
+Accuracy: 0.9684
+Macro Precision: 0.9604
+Macro Recall: 0.9102
+Macro F1: 0.9269
